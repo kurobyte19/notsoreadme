@@ -1,15 +1,19 @@
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="40%" align="center" valign="middle">
-        <!-- Paste your uploaded GitHub link in the src below -->
-        <img src="moon.png" width="100%" alt="Spinning 3D Sphere" />
-      </td>
-      <td width="60%" valign="middle">
-        <h1>Hi, I'm Lohith Srikar </h1>
-        <p>I spend most of my time homelabbing and tinkering with self-hosted stuff. I automate pretty much everything.</p>
-        <p>I'm also into machine learning and am actively working on ML security research.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <h1>Hi, I'm Lohith Srikar</h1>
+      <p>I spend most of my time homelabbing and tinkering with self-hosted stuff. I automate pretty much everything.</p>
+      <p>I'm also into machine learning and am actively working on ML security research.</p>
+      <br>
+      <a href="mailto:lsrikb19@gmail.com">
+        <img src="https://img.shields.io/badge/Email-lsrikb19%40gmail.com-D14836?style=flat-square&logoColor=white" alt="Email Badge" />
+      </a>
+      <a href="https://19kb.qzz.io/">
+        <img src="https://img.shields.io/badge/Website-19kb.qzz.io-2563EB?style=flat-square&logo=globe&logoColor=white" alt="Website Badge" />
+      </a>
+    </td>
+    <td width="30%">
+      <img src="image.png" alt="Profile Image" width="100%" />
+    </td>
+  </tr>
+</table>
