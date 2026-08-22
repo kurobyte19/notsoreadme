@@ -12,7 +12,11 @@
       </a>
     </td>
     <td width="30%">
-      <img src="image.png" alt="Profile Image" width="100%" />
+      <img src="https://raw.githubusercontent.com/lohithsrikar/lsrik19/main/moon.png" alt="Spinning Moon" width="100%" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://assets.codepen.io/13471/moon.apng" alt="Spinning Moon" width="200" />
+</p>
