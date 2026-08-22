@@ -18,5 +18,5 @@
 </table>
 
 <p align="center">
-  <img src="https://assets.codepen.io/13471/moon.apng" alt="Spinning Moon" width="200" />
+  <img src="moon.png" alt="Spinning Moon" width="200" />
 </p>
