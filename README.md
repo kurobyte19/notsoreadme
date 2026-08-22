@@ -3,7 +3,7 @@
     <tr>
       <td width="40%" align="center" valign="middle">
         <!-- Make sure this path matches where you upload the video in your repo -->
-        <video src="transparent_sphere_hq.webm" autoplay loop muted playsinline width="100%"></video>
+        <video src="video.webm" autoplay loop muted playsinline width="100%"></video>
       </td>
       <td width="60%" valign="middle">
         <h1>Hi, I'm Lohith Srikar </h1>
