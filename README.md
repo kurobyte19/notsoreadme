@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="moon.png" width="160" alt="moon" />
+<img src="sun.png" alt="sun" />
 
 # Hi, I'm Lohith Srikar
 
