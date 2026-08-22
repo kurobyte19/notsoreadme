@@ -2,8 +2,7 @@
   <tr>
     <td width="70%">
       <h1>Hi, I'm Lohith Srikar</h1>
-      <p>I spend most of my time homelabbing and tinkering with self-hosted stuff. I automate pretty much everything.</p>
-      <p>I'm also into machine learning and am actively working on ML security research.</p>
+      <p>I'm into computer security, and I work on ML projects focused on security.</p>
       <br>
       <a href="mailto:lsrikb19@gmail.com">
         <img src="https://img.shields.io/badge/Email-lsrikb19%40gmail.com-D14836?style=flat-square&logoColor=white" alt="Email Badge" />
